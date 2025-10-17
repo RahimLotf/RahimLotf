@@ -22,5 +22,9 @@ I'm a 17-year-old game developer from Algeria. I have 2 years of experience in g
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat&logo=unreal-engine&logoColor=white)
+### 🌐 &nbsp;Community & Game Engines
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/)
+[![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot&logoColor=white)](https://godotengine.org/)
+[![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
 
 
