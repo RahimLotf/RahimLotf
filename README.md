@@ -23,15 +23,15 @@ I specialize in <b>Unity</b>, <b>Godot</b>, and <b>Unreal Engine 5</b>.
 🎯 <b>Future Goals:</b> Build a large community for game development in Algeria and create amazing games.
 </p>
 
-<!-- محرك Unreal Engine 5 -->
+<!-- Unreal Engine 5 -->
 <h2 style="font-size: 2em; font-weight: bold;">🔥 My Current Focus</h2>
 <p style="font-size: 1.2em; font-weight: 500;">
 🚀 Currently exploring <b>Unreal Engine 5</b> — mastering high-end graphics, realistic environments, and next-gen gameplay experiences.
 </p>
 <img src="https://img.shields.io/badge/-Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
 
-<!-- اللغات والأدوات -->
-<h2 style="font-size: 2em; font-weight: bold;">💻 Languages & Tools I Use</h2>
+<!-- اللغات -->
+<h2 style="font-size: 2em; font-weight: bold;">💻 Programming Languages</h2>
 <p>
 <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -39,17 +39,24 @@ I specialize in <b>Unity</b>, <b>Godot</b>, and <b>Unreal Engine 5</b>.
 <img src="https://img.shields.io/badge/-GDScript-478CBF?style=for-the-badge&logo=godot&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
 </p>
 
-<!-- المجتمع ومحركات الألعاب -->
-<h2 style="font-size: 2em; font-weight: bold;">🌐 Community & Game Engines</h2>
+<!-- محركات الألعاب -->
+<h2 style="font-size: 2em; font-weight: bold;">🎮 Game Engines</h2>
+<p>
+<img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
+</p>
+
+<!-- المجتمع -->
+<h2 style="font-size: 2em; font-weight: bold;">🌐 Community & Networks</h2>
 <p>
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://godotengine.org/"><img src="https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot&logoColor=white"/></a>
-<a href="https://unity.com/"><img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/></a>
-<a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/-Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white"/></a>
+<a href="https://godotengine.org/"><img src="https://img.shields.io/badge/-Godot%20Community-478CBF?style=for-the-badge&logo=godot&logoColor=white"/></a>
+<a href="https://unity.com/"><img src="https://img.shields.io/badge/-Unity%20Community-000000?style=for-the-badge&logo=unity&logoColor=white"/></a>
+<a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/-Unreal%20Community-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white"/></a>
 </p>
 
 </div>
+
