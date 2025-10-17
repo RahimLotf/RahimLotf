@@ -12,8 +12,8 @@
 I'm a passionate **17-year-old developer from Algeria** who loves creating interactive worlds and digital experiences.  
 I work across multiple fields — from game design to web and server development.  
 
-🚀 Currently exploring **Unreal Engine 5**, **Lumen**, and **Nanite** to build next-generation 3D experiences.  
-💡 I believe in learning, creating, and inspiring others through technology and games.  
+ Currently exploring **Unreal Engine 5**, **Lumen**, and **Nanite** to build next-generation 3D experiences.  
+ I believe in learning, creating, and inspiring others through technology and games.  
 
 ---
 
@@ -41,10 +41,10 @@ I work across multiple fields — from game design to web and server development
 
 ## 🌍 Other Skills
 
-- 🌐 **Website Development** (Frontend + Backend)  
-- 🧩 **App Development** (Mobile & Desktop)  
-- 🖥️ **Game Server Management** (GTA, Minecraft, etc.)  
-- ⚙️ **Full Stack Development** using modern tools and frameworks  
+-  **Website Development** (Frontend + Backend)  
+-  **App Development** (Mobile & Desktop)  
+-  **Game Server Management** (GTA, Minecraft, etc.)  
+-  **Full Stack Development** using modern tools and frameworks  
 
 ---
 
@@ -58,6 +58,39 @@ I work across multiple fields — from game design to web and server development
 
 ---
 
-⭐ **"Building worlds, one line of code at a time."**
+ **"Building worlds, one line of code at a time."**
 
 
+## 🧭 Skills & Proficiency
+
+### ▶ Language Skills (English & Programming)
+- **English** — 40%  
+  `[████████□□]` **40%**  
+  ![English](https://img.shields.io/badge/English-40%25-orange)
+
+- **Programming Languages (each listed)** — 60%  
+  C / C++ / C# / Python / JavaScript / TypeScript / HTML / CSS  
+  `[████████████□□□□]` **60%**  
+  ![Languages](https://img.shields.io/badge/Programming-60%25-yellow)
+
+---
+
+### ▶ Game Engine Proficiency
+- **Godot** — 95%  
+  `[███████████████████□]` **95%**  
+  ![Godot](https://img.shields.io/badge/Godot-95%25-brightgreen)
+
+- **Unity** — 57%  
+  `[███████████□□□□□□□]` **57%**  
+  ![Unity](https://img.shields.io/badge/Unity-57%25-yellowgreen)
+
+- **Unreal Engine 5** — 40%  
+  `[████████□□]` **40%**  
+  ![Unreal](https://img.shields.io/badge/Unreal%20Engine%205-40%25-orange)
+
+---
+
+### ▶ Summary (combined view)
+- **Overall Engines Average** — 64%  
+  `[████████████□□□□□]` **64%**  
+  ![Overall](https://img.shields.io/badge/Engines_Avg-64%25-yellowgreen)
