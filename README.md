@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1606112219348-204d7d8b94ee?auto=format&fit=crop&w=1200&q=80" width="100%" alt="Banner">
+<!-- Banner Image -->
+<img src="https://i.pinimg.com/736x/0e/f8/f6/0ef8f6ba0fa35ab5c3f82173bf56bc17.jpg" width="100%" alt="Banner">
 
 <h1>
   👋 Hi There, I'm <span style="color:#00BFFF;">Rahmi</span>  
@@ -60,5 +61,6 @@ I work across multiple fields — from game design to server and web development
 
 ⭐ *"Building worlds, one line of code at a time."*  
 </div>
+
 
 
