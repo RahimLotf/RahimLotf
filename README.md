@@ -3,7 +3,7 @@
 
 # 👋 Hi There, I'm **Rahmi**
 
-###### 🎮 Game Developer | 🌐 Web Developer | 📱 App Developer | 🖥️ Game Server Developer
+# 🎮 Game Developer | 🌐 Web Developer | 📱 App Developer | 🖥️ Game Server Developer
 
 ---
 
