@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.pinimg.com/1200x/4e/d9/95/4ed99588edcfd21da8ad20c0680979bc.jpg" width="100%" alt="Banner">
+<img src="https://i.pinimg.com/736x/7b/0a/be/7b0abe7dd01ed2debd46e91a251d3442.jpg" width="100%" alt="Banner">
 
 # 👋 Hi There, I'm **Rahmi**
 
